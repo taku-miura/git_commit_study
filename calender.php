@@ -55,7 +55,6 @@ for ($i = 1; $i < $last_day + 1; $i++) {
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<link rel="stylesheet" href="style.css">
 <title>カレンダー</title>
 </head>
 <body>
